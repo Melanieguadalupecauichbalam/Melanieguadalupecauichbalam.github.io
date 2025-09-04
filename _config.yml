@@ -1,22 +1,22 @@
 # main text of home
-nomre: Melanie Guadalupe Cauich Balam 
-bio: A Girl who travels the world eating noodles
+nombre: 
+bio: 
 
 # twitter summary info
-description: A blog about technology and stuff related
+description:
 
 picture:
 
-url: http://koppl.in/violet
-# your url: http://USERNAME.github.io
+url: https://melanieguadalupe.me/
+# your url:
 
 # if you don't have any of social below, comment the line
-instagram: https://www.instagram.com/mel._bal/?igsh=MW80bmJlcWxuYXA5OQ%3D%3D&utm_source=qr# 
-twitter: https://x.com/mel9628?s=11 
+instagram: 
+twitter:
 github: 
-email: 250300604@ucaribe.edu.mx
+email:
 
 gems:
   - jekyll-seo-tag
 
-exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
+exclude:
