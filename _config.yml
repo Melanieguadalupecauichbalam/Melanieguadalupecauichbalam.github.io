@@ -1,20 +1,21 @@
 # main text of home
-name: Jane Doe
-bio: A Girl who travels the world eating moodles
+name: MELANIE
+bio: holaaaa
 
 #twitter summary info
-description: A blog about technology and stuff related
+description:Blog persomnal 
 
-picture: (Captura de pantalla 2025-09-04 132458.png)
+picture:(Captura de pantalla 2025-09-04 132458.png)
 
 url: http://koppl.in/violet
 # your url: http://USERNAME. github.10
 
-# if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+# mis redes sociales 
+facebook: mi facebook
+twitter: mi twitter
+github: mi github
+instagram: mi instagram
+spotify: mi spotify
 
 gems:
 - jekyll-seo-tag
