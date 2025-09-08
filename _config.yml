@@ -1,22 +1,22 @@
 # main text of home
-nombre: Melanie
-bio: 
+name: Jane Doe
+bio: A Girl who travels the world eating moodles
 
-# twitter summary info
-description:
+#twitter summary info
+description: A blog about technology and stuff related
 
 picture: (Captura de pantalla 2025-09-04 132458.png)
 
-url: (https://melanieguadalupe.me/)
-# your url:
+url: http://koppl.in/violet
+# your url: http://USERNAME. github.10
 
 # if you don't have any of social below, comment the line
-instagram: (https://www.instagram.com/mel._bal?igsh=MW80bmJlcWxuYXA5OQ%3D%3D&utm_source=qr)
-twitter:(https://x.com/mel9628?s=11)
-github: 
-email:
+facebook: myfacebook
+twitter: mytwitter
+github: mygithub
+email: me@jane.doe
 
 gems:
-  - jekyll-seo-tag
+- jekyll-seo-tag
 
-exclude:
+exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
